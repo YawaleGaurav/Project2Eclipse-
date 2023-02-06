@@ -9,6 +9,8 @@ public class ArrayListTry
 		al.add(1);
 		al.add(2);
 		al.add(3);
+		al.add(5);
+		al.add(6);
 		System.out.println(al);
 	}
 
